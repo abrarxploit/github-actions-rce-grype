@@ -71,18 +71,12 @@ This issue was reported via the [GitHub Bug Bounty Program](https://bounty.githu
 Thank you for your report. The workflow you analyzed belongs to a third-party project (anchore/grype), which is outside the paid scope of GitHub's bounty program. However, your report is informative and demonstrates a valid risk pattern.
 ```
 
-
-
 ## 📎 Report Outcome
 
 - **Platform:** HackerOne → GitHub Program
 - **Report ID:** #3214599 (Closed as Informative)
 - **GitHub Message:** Out of paid bounty scope + marked as informative
 - **Maintainers invited to patch via `security.md` link**
-
-## 📁 Repo Structure
-
-
 
 ## 🧠 Notes
 
